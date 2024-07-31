@@ -139,15 +139,19 @@ form #cedula {
 
 footer {
    text-align : center;
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, serif;
-
-   font-weight: bold;
-   font-style : italic;
    padding    : 5px;
    width      : 100%;
    position   : fixed;
    bottom     : 0;
+   
+
+}
+
+.footer-p{
    color      : white;
    font-size  : small;
+   font-weight: bold;
+   font-style : italic;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, serif;
 
 }
